@@ -55,7 +55,7 @@ main {
     font-weight: bold;
     box-shadow: 0 4px #000; /* Sombra más pronunciada para efecto de profundidad */
     transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
-    height: 150px;
+    height: 200px;
     width: calc(33.33% - 10px);
     box-sizing: border-box;
     text-align: center;
